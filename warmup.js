@@ -1,4 +1,4 @@
-
+//1
 function ifTrue(){
 
 	var question1 = document.quiz.question1.value;
